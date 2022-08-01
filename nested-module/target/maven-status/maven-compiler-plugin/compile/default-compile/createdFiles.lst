@@ -1,0 +1,3 @@
+org\acme\kafka\quarkus\Movie$Builder.class
+org\acme\kafka\quarkus\Movie.class
+org\acme\kafka\MovieResource.class
