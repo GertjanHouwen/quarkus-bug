@@ -1,0 +1,5 @@
+/nested-module/target/
+/nested-module2/target/
+*.iml
+/.idea
+/nested-module

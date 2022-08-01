@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.acme.kafka.SerializeTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 16.795 s <<< FAILURE! - in org.acme.kafka.SerializeTest
-org.acme.kafka.SerializeTest.test_serialization  Time elapsed: 0.385 s  <<< ERROR!
-java.lang.ClassCastException: org.apache.avro.generic.GenericData$Record incompatible with org.acme.kafka.quarkus.Movie
-	at org.acme.kafka.SerializeTest.test_serialization(SerializeTest.java:33)
-
