@@ -70,8 +70,6 @@
           </systemPropertyVariables>
         </configuration>
       </plugin>
-<<<<<<< HEAD
-=======
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-failsafe-plugin</artifactId>
@@ -85,7 +83,6 @@
           </execution>
         </executions>
       </plugin>
->>>>>>> c9b86be26f84bcf0f78251cbcc8373e901006068
     </plugins>
   </build>
 </project>
